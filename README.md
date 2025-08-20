@@ -76,12 +76,6 @@ Este es un diseño de sitio web organizado mediante Grid y Flexbox, estructurand
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/40a093c0-7792-4099-95e3-6cf07ba3e05f" />
 
+---
 
-
-
-
-
-
-
-
-
+## <p align="center"><a href="https://github.com/adnalotrebla741202">REGRESAR</a></p>
